@@ -32,7 +32,8 @@ The Tableau dashboard includes the following visualizations and KPIs:
 9. Age Distribution:  
    - A bar chart showing the age distribution of patients.  
 10. Medical Condition Breakdown: 
-    - A tree chart visualizing the occurrence of various medical conditions.  
+    - A tree chart visualizing the occurrence of various medical conditions.
+11. Interactivity filter added to "Billing Amount By Year"
 
 ---
 
