@@ -58,10 +58,9 @@ Insights Derived:-
 2. Data_Source.csv: Sample dataset used for creating the visualizations.  
 3. README.md: Overview of the project.  
 
-## **Contact**  
+Contact:-
 If you have any suggestions or feedback, feel free to reach out:  
-- **Email:** [rajeshmusine]  
-- **LinkedIn:** [Your LinkedIn Profile]  
-- **GitHub:** [Your GitHub Profile]  
-
----
+Name: Rajesh M 
+Email: rajeshmusine@gmail.com 
+LinkedIn: [Rajesh M] www.linkedin.com/in/rajesh-m-92b182341 
+GitHub: https://github.com/Rajesh-DataAnalyst/Rajesh.git
